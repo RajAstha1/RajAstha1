@@ -3,7 +3,7 @@
 ### `Software Development Engineer` • `AI/ML` • `Full Stack Developer`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Building+Software+That+Solves+Real+Problems;300%2B+DSA+Problems+Solved;Full+Stack+%7C+AI%2FML+%7C+GenAI;Exploring+Backend+%26+System+Design;Always+Learning%2C+Building+%26+Improving" alt="Typing SVG" />
+  <img src="./banner.png" alt="Cover Photo" width="100%"/>
 </p>
 
 <p align="center">
@@ -304,6 +304,16 @@ I'm continuously strengthening my fundamentals in:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajastha1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🐍 Eating My Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajAstha1/RajAstha1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajAstha1/RajAstha1/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RajAstha1/RajAstha1/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
