@@ -319,10 +319,6 @@ I'm continuously strengthening my fundamentals in:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajastha1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajastha1&bg_color=1a1b27&color=7C3AED&line=8B5CF6&point=8B5CF6&area=true&hide_border=true" />
-</p>
-
 ## 🐍 Eating My Contributions
 
 <p align="center">
