@@ -125,6 +125,18 @@ I am a Computer Science Engineering student at Chandigarh University, passionate
 
 ---
 
+## 💬 Today's Thought
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad." alt="Quote" />
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&qColor=%23B9A0FF&aColor=%23FF9966&bgColor=%23080D1B&borderColor=%236554A5" alt="Random Dev Joke" />
+</p>
+
+---
+
 ## 🐍 Activity 
 
 <p align="center">
