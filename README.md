@@ -22,6 +22,12 @@
   <img src="https://komarev.com/ghpvc/?username=rajastha1&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rajastha1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+  </a>
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -30,14 +36,21 @@ I'm **Astha Raj**, a Computer Science Engineering student at **Chandigarh Univer
 
 I enjoy working across the stack — from designing frontend experiences and REST APIs to building ML systems and experimenting with LLM-powered applications.
 
-```text
-🎓 Computer Science Engineering — Chandigarh University
-📅 Graduation — 2027
-📊 CGPA — 7.50
-🧩 300+ DSA Problems Solved
-🏆 Multiple National-Level Hackathon Finalist
-💻 Full Stack + AI/ML + Generative AI
-🚀 Interested in SDE, Backend & AI/ML Roles
+```yaml
+profile:
+  name: Astha Raj
+  education:
+    university: Chandigarh University
+    major: Computer Science Engineering
+    graduation: 2027
+    cgpa: 7.50
+  achievements:
+    - 300+ DSA Problems Solved
+    - Multiple National-Level Hackathon Finalist
+  interests:
+    - Full Stack Development
+    - AI/ML & Generative AI
+    - Backend Systems
 ```
 
 ---
@@ -304,6 +317,10 @@ I'm continuously strengthening my fundamentals in:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajastha1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajastha1&bg_color=1a1b27&color=7C3AED&line=8B5CF6&point=8B5CF6&area=true&hide_border=true" />
 </p>
 
 ## 🐍 Eating My Contributions
